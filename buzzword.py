@@ -5,7 +5,14 @@ words = ['bitcoin', 'overclock', 'moor\'s law',
          'synthesize', 'compute', 'car', 'IOT'
          'aggregate', 'distribute(d)', 'potential'
          'cluster', 'protocol', 'network', 'latency'
-         'vehicle', 'node','power','smart','future']
+         'vehicle', 'node','power','smart','future'
+         'diverse', 'mining', 'innovative', 'real-time'
+         'portable', 'science','blockchain', 'crypto',
+         'algorithm', 'big data','as a service',
+         'sensorization', 'SDN', 'mobile','modular',
+         'framework', 'engine','enabling','bandwidth']
+
+print(len(words))
 
 players = 3
 
