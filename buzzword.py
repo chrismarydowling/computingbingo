@@ -4,7 +4,8 @@ words = ['bitcoin', 'overclock', 'moor\'s law',
          'edge', 'fog', 'cloud', 'power',
          'synthesize', 'compute', 'car', 'IOT'
          'aggregate', 'distribute(d)', 'potential'
-         'cluster', 'protocol', 'network']
+         'cluster', 'protocol', 'network', 'latency'
+         'vehicle', 'node','power','smart','future']
 
 players = 3
 
